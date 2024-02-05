@@ -13,7 +13,6 @@ public class Reverse2nd {
         	   
         	System.out.print(str1[i]+" ");   
            }
-		
 	}
 
 }

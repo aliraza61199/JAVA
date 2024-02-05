@@ -10,7 +10,7 @@ public class TriangleLR {
 			 {
 				 
 			 
-			 System.out.print("* ");
+			 System.out.print("MAHIRA ");
 		 }
 			 
 		 System.out.println(  );

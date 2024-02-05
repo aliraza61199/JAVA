@@ -2,10 +2,10 @@ package NumberQ;
 
 public class Happy_Number {
  public static void main(String[] args) {
-	int num=13;
+	int num=19;
 	int rem=0;
 	if(num==7) {
-		System.out.println("Happy Number");
+		//System.out.println("Happy Number");
 	}
 	else {
 		while(num>9) {
@@ -17,8 +17,7 @@ public class Happy_Number {
 			}
 		num=sum;
 		
-		}
-	}
+		}}
 
 	if(num==1)
 		System.out.println("Happy Number");

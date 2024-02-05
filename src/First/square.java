@@ -6,7 +6,8 @@ public class square {
 		
 		
 		int a=65;
-        System.out.println(a);
+		int area = a*a;
+        System.out.println(area);
        
 	}
 }
