@@ -8,15 +8,15 @@ public class TriangleRL {
 		
 		int n=4;
 		
-		for (int i=1;i<=n;i--) {
-			
-			for(int j=) {
+		for (int i=n;i>=1;i--) {
+			for(int j=i;j<=n;j++) {
 				
-				System.out.print("$ ");
+				System.out.print("*");
 			}
-			System.out.println( );
+			}
+			System.out.println(" ");
 			
 		}
 	}
 
-}
+

@@ -10,8 +10,8 @@ public class Static_NonStatic {
 	 int c=4;
 	 public static void main(String[] args) { 
 		System.out.println("main meyhod");
-		Static_NonStatic a1=new Static_NonStatic();
 		m2();
+		Static_NonStatic a1=new Static_NonStatic();
 		a1.m1();
 		 
 	}
@@ -32,4 +32,14 @@ public class Static_NonStatic {
 			System.out.println(" Static Block");
 		}
 	 }
+
+
+//output 
+//Static Block
+//main meyhod   
+// Static method
+//Non Static Block
+//Constructor
+//Non Static method
+
 

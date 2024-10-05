@@ -25,7 +25,7 @@ import java.util.Scanner;
 			}
           
 		 }	
-		System.out.println("the large element is:"+large);
+		System.out.println("the large element is :- "+large);
 	}
 }
 		

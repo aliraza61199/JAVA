@@ -1,4 +1,3 @@
-
 package GulamBhai;
 
 import java.util.TreeSet;
@@ -13,12 +12,12 @@ public class Short {
 	TreeSet<Character> ts= new TreeSet<>();
 	for(char c:ch) {
 		ts.add(c);
-		System.out.print(c);
+		System.out.print(c+",");
 		
 	}
-	System.out.println("\n"+"  ");
+	//System.out.println("\n"+"  ");
 	for(char c1:ts) {
-		System.out.println(c1);
+		System.out.println(""+c1);
 	}
 	
 	}

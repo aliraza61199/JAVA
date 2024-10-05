@@ -14,7 +14,7 @@ public class reverse {
 		//for(int i=0;i<st.length();i++) {
 			s2= s2+st.charAt(i);
 		 }
-	 s2=s2+" ";
+	     s2=s2+" ";
 	   }
 	System.out.println(s2);
 	

@@ -8,16 +8,17 @@ public class StringBuilder1 {
 	public static void main(String[] args) {
 		
 		
-		StringBuilder a= new StringBuilder("ALI RAZA");
+		StringBuilder a= new StringBuilder("ALI RAZA ");
 		a.append("bokaro");
 		System.out.println(a);
-		String s=new String("manual");
-		s=s.concat("class");
-		System.out.println(s);
 		
-		StringBuffer b= new StringBuffer("raza");
+		StringBuffer b= new StringBuffer("raza ");
 		b.append("rani");
 		System.out.println(b);
+		
+		String s=new String("manual");
+		s=s.concat(" class");
+		System.out.println(s);
 		
 	}
 }

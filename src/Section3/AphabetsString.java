@@ -13,10 +13,11 @@ public class AphabetsString {
 				count++;
 				s2=s2+s.charAt(i);
 				
-				System.out.println(s2);
-				System.out.println(count);
+				
 			}
 		}
+		System.out.println(s2);
+		System.out.println(count);
 
 	}
 
